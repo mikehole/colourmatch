@@ -1,0 +1,9 @@
+D:\Source\Play\Functions Play\ColourMatch\ColourMatch.ColourIdentification\bin\Debug\netstandard2.0\ColourMatch.ColourIdentification.deps.json
+D:\Source\Play\Functions Play\ColourMatch\ColourMatch.ColourIdentification\bin\Debug\netstandard2.0\ColourMatch.ColourIdentification.dll
+D:\Source\Play\Functions Play\ColourMatch\ColourMatch.ColourIdentification\obj\Debug\netstandard2.0\ColourMatch.ColourIdentification.csproj.CoreCompileInputs.cache
+D:\Source\Play\Functions Play\ColourMatch\ColourMatch.ColourIdentification\obj\Debug\netstandard2.0\ColourMatch.ColourIdentification.AssemblyInfoInputs.cache
+D:\Source\Play\Functions Play\ColourMatch\ColourMatch.ColourIdentification\obj\Debug\netstandard2.0\ColourMatch.ColourIdentification.AssemblyInfo.cs
+D:\Source\Play\Functions Play\ColourMatch\ColourMatch.ColourIdentification\obj\Debug\netstandard2.0\ColourMatch.ColourIdentification.csprojResolveAssemblyReference.cache
+D:\Source\Play\Functions Play\ColourMatch\ColourMatch.ColourIdentification\bin\Debug\netstandard2.0\ColourMatch.ColourIdentification.pdb
+D:\Source\Play\Functions Play\ColourMatch\ColourMatch.ColourIdentification\obj\Debug\netstandard2.0\ColourMatch.ColourIdentification.dll
+D:\Source\Play\Functions Play\ColourMatch\ColourMatch.ColourIdentification\obj\Debug\netstandard2.0\ColourMatch.ColourIdentification.pdb
