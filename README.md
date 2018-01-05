@@ -5,6 +5,6 @@ This is the source for the colourmatch azure function to see how it works try th
 
 https://colourmatch.azurewebsites.net/api/ExecuteMatch?url=https://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png
 
-Credit to Rodrigo Diaz for dome pointers helping with the SixLabors.ImageSharp library.
+Credit to Rodrigo Diaz for some pointers helping with the SixLabors.ImageSharp library.
 
 
