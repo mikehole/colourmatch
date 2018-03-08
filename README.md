@@ -7,4 +7,5 @@ https://colourmatch.azurewebsites.net/api/ExecuteMatch?url=https://upload.wikime
 
 Credit to Rodrigo Diaz for some pointers helping with the SixLabors.ImageSharp library.
 
+[![Build status](http://build.pwinty.com:81/app/rest/builds/buildType:(id:PwintyWeb_CiBuild)/statusIcon.svg)]()
 
